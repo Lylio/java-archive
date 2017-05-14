@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+/**Sentinel practice where different input type exits loop
+ * @author Lyle
+ *
+ */
 public class SentinelPractice {
 
 	public static void main(String[] args) {

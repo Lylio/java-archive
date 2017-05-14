@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+/**Sentinel practice using boolean instead of break statement
+ * @author Lyle
+ *
+ */
 public class SentinelPractice3 {
 
 	public static void main(String[] args) {

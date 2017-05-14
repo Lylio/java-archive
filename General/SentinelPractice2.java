@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+/**Sentinel practice where specific word exits loop
+ * @author Lyle
+ *
+ */
 public class SentinelPractice2 {
 
 	public static void main(String[] args) {
