@@ -12,8 +12,11 @@ public class StringIndexOfPractice {
 		int indexLocation = sentence.indexOf("boat");
 		System.out.println(indexLocation); //22 expected
 		
-		int charLocation = sentence.indexOf('u');
-		System.out.println(charLocation); //4 expected
+		int charLocation = sentence.indexOf('a');
+		System.out.println(charLocation); //20 expected
+		
+		int charLocation2 = sentence.indexOf('a', 22);
+		System.out.println(charLocation2); //24 expected as search starts from index 22
 		
 		
 		//additional charAt practice
