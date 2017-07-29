@@ -18,6 +18,7 @@ public class ArrayCopyPractice {
 			System.out.print(i + " ");
 		}
 
+		
 	}
 
 }
