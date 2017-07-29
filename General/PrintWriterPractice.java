@@ -5,6 +5,7 @@ public class PrintWriterPractice {
 
 	public static void main(String[] args) {
 		
+		//Create PrintWriter object surrounded in try/catch block
 		
 		try {
 			
