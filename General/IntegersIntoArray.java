@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;;
 /**
- * This program reads in a series of integers and saves them into an array
+ * This program reads in a series of integers and saves them into an array (with a min / max method for fun!)
  * @author Lyle
  *
  */
