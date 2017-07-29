@@ -10,8 +10,8 @@ public class DelimiterPractice {
 		String answer = in.next();
 		in.close();
 		
-		System.out.println("Q: " + question);
-		System.out.println("A: " + answer);
+		System.out.println(question);
+		System.out.println(answer);
 
 	}
 
