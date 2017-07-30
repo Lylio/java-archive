@@ -10,6 +10,7 @@ public class AbstractPractice {
 		spaniel.makeNoise();
 		fresian.makeNoise();
 		beagle.Food("cans of Chump");
+		fresian.Continent("Europe");
 
 	}
 
