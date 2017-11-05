@@ -4,10 +4,10 @@ public class LetterFrequencies {
 
 	public static void main(String[] args) {
 
-		File file1 = new File("C:\\Users\\Lyle\\Desktop\\test.txt");
+		File inputFile = new File("C:\\Users\\Lyle\\Desktop\\test2.txt");
 		BufferedReader in = null;
 		try {
-			in = new BufferedReader (new FileReader (file1));
+			in = new BufferedReader (new FileReader (inputFile));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
@@ -51,7 +51,7 @@ public class LetterFrequencies {
 				maxChar = (char) (i + 'A');
 			}
 			freqDiff = charFreq - avgCounts[i];
-			System.out.printf("%4c %5d %7.1f %7.1f %7.1f \n", i + 'A', charCount[i], charFreq,avgCounts[i],freqDiff);
+			System.out.printf("%4c %5d %7.1f %7.1f %8.1f \n", i + 'A', charCount[i], charFreq,avgCounts[i],freqDiff);
 		}
 		
 		System.out.printf("\nThe most frequent letter is %s at %.1f%%", maxChar, maxFreq);
