@@ -14,17 +14,11 @@ public class HashMapPractice {
 		map.put(6, "Saturday");
 		map.put(7, "Sunday");
 		
-		System.out.println(map.get(4));
+		System.out.println(map.get(3));
 		
 		System.out.println(map.keySet());
-		
-		map.remove(1);
-		
-		System.out.println(map.keySet());
-		
-		int num = 7;
-		System.out.println(map.get(num));
-		
+
+		System.out.println(map.containsValue("Friday"));
 
 	}
 	

@@ -7,6 +7,7 @@ public class CountDownApp {
 		Thread clock = new CountDownClock();
 		
 		ArrayList<Runnable> events = new ArrayList<Runnable>();
+		events.add(new Adverts());
 		events.add(new LaunchEvent(16, "Flood the pad!"));
 		events.add(new LaunchEvent(6, "Start engines!"));
 		events.add(new LaunchEvent(0, "LIFTOFF!"));

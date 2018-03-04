@@ -1,4 +1,9 @@
 
+
+/**Using recursion, half an integer until its value equals 1
+ * @author Lyle
+ *
+ */
 public class RecursionHalfsies {
 
 	public static void main(String[] args) {

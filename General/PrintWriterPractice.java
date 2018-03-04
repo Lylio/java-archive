@@ -9,7 +9,7 @@ public class PrintWriterPractice {
 		
 		try {
 			
-			PrintWriter out = new PrintWriter("C:\\Users\\Lyle\\Desktop\\hello2.txt");
+			PrintWriter out = new PrintWriter("C:\\Users\\utt\\Desktop\\hello2.txt");
 			out.println("This is the first line of text in the new file.");
 			out.println("This is the second line of text in the new file.");
 			out.close();
@@ -18,6 +18,7 @@ public class PrintWriterPractice {
 		} catch (FileNotFoundException e) {
 			
 			System.out.println("Error - file not printed (check location)");
+			System.err.println(e.toString());
 		
 		}
 
