@@ -18,7 +18,11 @@ public class HashMapPractice {
 		
 		System.out.println(map.keySet());
 
+		String s = map.get(8);
+
 		System.out.println(map.containsValue("Friday"));
+
+		System.out.println(map.get(3) + s);
 
 	}
 	

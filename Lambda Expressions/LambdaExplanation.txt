@@ -1,0 +1,43 @@
+
+Lambda Expressions
+
+Lambda is the 11th letter in the Greek alphabet. In Java it is basically when you assign a method to a variable.
+
+To create a Lambda, take a regular function and remove the return type, the function's name, and add '->' after the parentheses (it has to be public too, so remove that):
+
+addNumbers = public int addNumbers(int a, int b)
+	 {
+		return a + b;
+
+	}
+
+becomes:
+
+addNumbers = (int a, int b) -> a + b;
+
+
+A Lambda expression:
+
+        greetingFunction = () -> {
+            System.out.println("Hello");
+        }
+
+
+With one-line Lambda expressions, you *can* remove curly braces, but *have* to remove the 'return' keyword:
+        
+doubleNumberFunction = (int a) -> a * 2;
+
+
+Lambda's with multiple lines, such as conditions, require curly braces:
+         
+        safeDivideFunction = (int a, int b) -> {
+            if(b == 0) {
+                return 0;
+            } else {
+                return a / b;
+            }
+        }
+
+Another example where a parameter's method is accessed:
+
+stringLength = (String s) -> s.length();

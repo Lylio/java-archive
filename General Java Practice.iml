@@ -20,6 +20,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Locks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SimpleDatabase/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Browser Socket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuickScratchPad" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Player-Role" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lambda Expressions" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
