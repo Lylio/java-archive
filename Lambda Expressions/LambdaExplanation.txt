@@ -1,7 +1,7 @@
 
 Lambda Expressions
 
-Lambda is the 11th letter in the Greek alphabet. In Java it is basically when you assign a method to a variable.
+Lambda is the 11th letter in the Greek alphabet (λ). In Java it is basically when you assign a method to a variable.
 
 To create a Lambda, take a regular function and remove the return type, the function's name, and add '->' after the parentheses (it has to be public too, so remove that):
 
