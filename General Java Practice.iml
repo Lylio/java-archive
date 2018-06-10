@@ -24,6 +24,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Lambda" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Player-Role" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Lambda Expressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Threads" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Threads 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SimpleDatabase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Abstract Data Types" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Comparable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator (java.util.Iterator)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interfaces" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />

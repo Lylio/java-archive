@@ -12,7 +12,7 @@ public class Database {
     public void connect() {
         try {
             Class.forName("org.postgresql.Driver");
-            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/quickdb", "postgres", "cxzcxz");
+            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/quickdb", "postgres", "password");
         } catch (Exception e) {
             e.printStackTrace();
             System.err.println(e.getClass().getName() + ": " + e.getMessage());
