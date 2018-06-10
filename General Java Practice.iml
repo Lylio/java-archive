@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Database Connection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Comparable 2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Abstract Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Various Concepts" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="inheritedJdk" />
