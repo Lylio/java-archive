@@ -3,47 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5e99e9d5-1b07-4f98-aea6-acbada822432" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Abstract Data Types/src/Pair.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Abstract Data Types/src/PairClass.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Abstract Data Types/src/PairMain.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassPractice/AbstractPractice.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassPractice/Animal.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassPractice/Cow.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/AbstractClassPractice/Dog.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Browser Socket/BrowserSocket.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ComparablePractice/Person.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ComparablePractice/personCompare.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ComparablePractice2/src/CountElMain.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ComparablePractice2/src/CountedElement.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/General Java Practice.iml" afterPath="$PROJECT_DIR$/General Java Practice.iml" />
-      <change beforePath="$PROJECT_DIR$/InterfacePractice/FarewellInterface.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/InterfacePractice/GreetingsInterface.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/InterfacePractice/InterfacePractice.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/InterfacePractice/MainInterface.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/IteratorPractice/IteratorMain.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/Attendance.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/FullTime.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/Level.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/PartTime.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/PlayerRoleMain.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/Postgraduate.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/Student.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Player-Role/Undergraduate.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/RecursionPractice/DollarSignsIntoString.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/RecursionPractice/FactorialRecursion.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/RecursionPractice/FibonacciWithRecursion.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/RecursionPractice/HalvingIntegers.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SimpleDatabase/src/Database.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SimpleDatabase/src/GUI.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/SimpleDatabase/src/SimpleDatabaseMain.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Testing/AdditionTest.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ThreadsPractice/Adverts.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ThreadsPractice/CountDownApp.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ThreadsPractice/CountDownClock.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ThreadsPractice/LaunchEvent.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/moreThreads/mainProgram.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/moreThreads/myRunnable.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/moreThreads/myRunnable2.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -427,7 +387,7 @@
       <workItem from="1528018090177" duration="274000" />
       <workItem from="1528018615254" duration="374000" />
       <workItem from="1528541455937" duration="6737000" />
-      <workItem from="1528648524967" duration="491000" />
+      <workItem from="1528648524967" duration="696000" />
     </task>
     <servers />
   </component>
@@ -437,7 +397,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46876000" />
+    <option name="totallyTimeSpent" value="47081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
