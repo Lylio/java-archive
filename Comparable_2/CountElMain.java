@@ -1,3 +1,5 @@
+package Comparable_2;
+
 public class CountElMain {
 
     public static void main(String[] args) {

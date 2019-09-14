@@ -1,3 +1,5 @@
+package Simple_Blockchain.src;
+
 import java.util.Arrays;
 
 public class Block {

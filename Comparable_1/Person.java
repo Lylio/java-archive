@@ -1,4 +1,4 @@
-
+package Comparable_1;
 
 public class Person implements Comparable<Person> {
 

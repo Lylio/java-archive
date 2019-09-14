@@ -1,3 +1,4 @@
+package Comparable_1;
 
 public class personCompare {
 

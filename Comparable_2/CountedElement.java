@@ -1,3 +1,5 @@
+package Comparable_2;
+
 public class CountedElement<E extends Comparable<E>> implements Comparable<CountedElement<E>> {
 
     private E element;

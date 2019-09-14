@@ -1,3 +1,4 @@
+package Threads_2;
 
 public class mainProgram {
 
