@@ -1,4 +1,4 @@
-# General Java Practice
+# Java
 ![Java Logo](img/java.png)
 <br>
 <br>
