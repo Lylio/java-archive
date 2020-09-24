@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e99e9d5-1b07-4f98-aea6-acbada822432" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparable (1)/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Comparable_1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparable (1)/personCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Comparable_1/personCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparable (2)/CountElMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Comparable_2/CountElMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comparable (2)/CountedElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Comparable_2/CountedElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Blockchain/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_Blockchain/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Blockchain/src/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_Blockchain/src/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple-Blockchain/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Simple_Blockchain/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (1)/Adverts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_1/Adverts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (1)/CountDownApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_1/CountDownApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (1)/CountDownClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_1/CountDownClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (1)/LaunchEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_1/LaunchEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (2)/mainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_2/mainProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (2)/myRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_2/myRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Threads (2)/myRunnable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threads_2/myRunnable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +13,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="General Java Practice" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,10 +32,16 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -78,18 +68,6 @@
       <recent name="C:\Users\Lyle\workspace\General Java Practice\General" />
       <recent name="C:\Users\Lyle\workspace\General Java Practice\ComparablePractice2\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet">
@@ -162,6 +140,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -204,6 +193,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -244,6 +234,7 @@
       <workItem from="1567152195533" duration="619000" />
       <workItem from="1568443047042" duration="16000" />
       <workItem from="1568443101347" duration="508000" />
+      <workItem from="1600968366461" duration="768000" />
     </task>
     <servers />
   </component>
@@ -253,20 +244,25 @@
     </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="292" width="618" height="522" key="find.popup" timestamp="1600968475921">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="687" y="292" width="618" height="522" key="find.popup/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1600968475921" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
